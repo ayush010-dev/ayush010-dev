@@ -1,9 +1,10 @@
 ## Hi there 👋
+<img align="right" width="400px" height="250px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on AI/ML.<br>🌱 I’m currently learning ML.<br>💬 Ask me about my journey<br>⚡ Fun fact-I generate code with mind
+🔭 I’m Ayush currently working on AI/ML.<br>🌱 I’m currently learning ML.<br>💬 Ask me about my journey<br>⚡ Fun fact-I generate code with mind
 
-<img align="right" width="400px" height="250px" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-vats-730839345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushjmj010@gmail.com) 
 
