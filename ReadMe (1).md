@@ -1,4 +1,5 @@
 # 💫 About Me:
+😎 I am Ayush.<br>
 🔭 I’m currently working on AI/ML.<br>🌱 I’m currently learning ML.<br>💬 Ask me about my journey<br>⚡ Fun fact-I generate code with mind
 
 
